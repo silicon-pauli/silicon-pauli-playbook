@@ -1,5 +1,5 @@
 #Name of the play
-Provide a name for the play following our [naming guidelines](http://).
+Provide a name for the play following our [naming guidelines](https://github.com/tizzle/silicon-pauli-playbook/blob/master/guides/naming-guidelines.md).
 
 ##Abstract
 Describe the play in about 200 characters.
