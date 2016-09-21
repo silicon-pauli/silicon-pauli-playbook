@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>assumption-risk-priority</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assumption-risk-priority">
+            <path d="M-5.68434189e-14,768 L1024,0" id="Line" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+            <path id="Line-decoration-1" d="M1024,0 L1013.56,4.08 L1017.16,8.88 L1024,0 Z" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+            <path d="M511.5,0 L511.5,768" id="Line" stroke="#9B9B9B" stroke-linecap="square"></path>
+            <path d="M0,385.5 L1024,385.5" id="Line" stroke="#9B9B9B" stroke-linecap="square"></path>
+            <text id="Validated" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" fill="#9B9B9B">
+                <tspan x="24" y="370">Validated</tspan>
+            </text>
+            <text id="Unknown" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" fill="#9B9B9B">
+                <tspan x="895.168" y="370">Unknown</tspan>
+            </text>
+            <text id="High-Risk" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" fill="#9B9B9B">
+                <tspan x="535" y="40">High Risk</tspan>
+            </text>
+            <text id="Priority" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" fill="#000000">
+                <tspan x="921" y="110">Priority</tspan>
+            </text>
+            <text id="Low-Risk" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" fill="#9B9B9B">
+                <tspan x="535" y="743">Low Risk</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

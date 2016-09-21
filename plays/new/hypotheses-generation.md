@@ -1,5 +1,5 @@
 #Hypotheses Generation
-This play is adapted from the book „Lean UX“ by Jeff Gothelfand Josh Seiden, that contains a more detailed description. 
+This play is adapted from the book „Lean UX“ by Jeff Gothelfand Josh Seiden (see references). 
 
 ##Abstract
 Hypotheses generation (HG) provides the **What** in product iterations: what to **build** and what to **measure**. Plus: a release roadmap by defining all hypotheses that have to be tested. 
@@ -49,7 +49,7 @@ The size of the group is the same as in standard work meetings. 5 or 7 are great
 
 ##How to run 
 Time: 2-8 hours, depending on the scope and relevance of the cycle and the amount of contributors. 
-Material: Post-Its, sharpies, large wall. 
+Material: Post-Its, sharpies, 1 or 2 whiteboards
 
 ###1. Formulate Problem Scope
 Formulate the problem scope that expresses: 
@@ -62,23 +62,65 @@ Formulate the problem scope that expresses:
 ###2. State Assumptions
 Give everybody a fixed time to formulate as many assumptions on their own. Help them by providing asking questions like "Who is the user?" or "Do we need X to do this?". The „Lean UX“ Book has a handy worksheet that can facilitate this. Prepare appropriate questions in advance, ask them and set a time frame for each question for the team to come up with (3-5 minutes). 
 
-###3. Structure Assumptions
-Assumptions tend to be dependent on each other. If users do not want feature X, we do not need to test if it is technically feasible. Start by
+###3. Structure Assumptions by dependency
+Assumptions tend to be dependent on each other. If users do not want feature X (Hypothesis: users want recommendations), we do not need to test if it is technically feasible (Hypothesis: we can provide recommendations). The goal of this step is to visualize assumption dependency. The most basic assumptions should hang on top, the dependent hypotheses below. As the moderator, start by
+
 - identifying a central assumption and put it on top,
-- find assumptions that are directly dependent on this, 
+- let the team find find assumptions that are directly dependent on this, 
 - arrange them horizontally under the first, 
-- then find assumptions dependent on those, 
+- then let the team identify assumptions dependent on those, 
+- if you find a more central one, put it on top, 
+- ignore the order of assumptions on the same level for now and
 - repeat. 
-If you find a more central one, put it on top. This will give you a reverse tree of assumptions. You will wannt to start validating the ones on top first. To 
 
+This will give you a reverse tree of assumptions. Assumptions on the same level are not yet prioritized but need to be. 
 
-[TBD] Describe the repeatable steps of this play. Provide context and detail.
+###4. Prioritize Assumptions by Risk
+To arrive at a single list of assumptions, we need to prioritize assumptions on the same level. The most important criteria are
 
-##Pro tips
-[TBD] Describe any best practices or insights the team should know before running this play.
+1. **Validation**: have you already validated this? Is there prior information that validates the assumption? 
+2. **Risk**: How bad would it be if we were wrong about this? 
+
+Put up a simple matrix on the whiteboard like this and explain the axes to the team:
+
+![assumption risk priority](../../assets/assumption-risk-priority.svg)
+
+As the moderator, start by taking the assumptions on the top-most level. If it is one, put it on top of your final list. If there are more, let the team decide, where to put them on the matrix. If all assumptions on the same level are on the matrix, put them on the final list in the order of proximity to the top right corner. Repeat this for each level of assumptions. 
+
+###5. Formulate Hypotheses
+These assumptions now need to be formulated as testable hypotheses. Take each assumption and bring it into the following format: 
+
+```
+We believe <measure>
+will result in <outcome>
+if we observe <metric>.
+```
+
+**Measure**: What is the stimulus of your test? What do you need to do or change to see the outcome? This can be Mockups, banner ads, mailings, questionnaires, whatever. Get creative. 
+
+**Outcome**: What change do you want to see? This can be user behavior, attitudes but also system behavior or business value. 
+
+**Metric**: Which **quantitative** metric will have to show what value or which **qualitative** metric need to show what characteristic for you to validate the assumption. Be specific. 
+
+Start with the top assumption and put a post-it for the **measure**, **outcome** and **metric** next to it. 
+
+###6. Define the scope
+Use any technique to define the scope of your iteration cycle by picking the hypotheses you want to validate. Time boxing has proven very effective. Just do as many as you can in the time you have, start at the top. 
 
 ##Resources
-Add resources the team should know before running this play.
+- [Lean startup. Ries, E. (2017)](https://en.wikipedia.org/wiki/The_Lean_Startup)
+- [Lean UX: Applying Lean Principles to Improve User Experience. ](http://www.jeffgothelf.com/lean-ux-book/)
+- [How to Implement Hypothesis-Driven Development](https://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/)
+- [The Scientific Method: How to Design & Track Viral Growth Experiments](https://www.youtube.com/watch?v=0APJlxMjPw4)
 
 ##Author(s)
-[TBD] Provide your credentials so you can be properly attributed. Additional authors can be added.
+[Mark Jäger](http://jaeger.digital)
+
+
+
+
+
+
+
+
+
