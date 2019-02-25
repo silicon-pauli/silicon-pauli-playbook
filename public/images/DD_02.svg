@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>DD_02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DD_02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1080"></rect>
+        <g id="main_structure_frame" transform="translate(60.000000, 90.000000)">
+            <g id="line_Grid" stroke="#979797" stroke-linecap="square" stroke-width="2">
+                <path d="M900,0 L900,830" id="Line"></path>
+                <path d="M550,70 L550,830" id="Line"></path>
+                <path d="M1250,70 L1250,830" id="Line"></path>
+                <path d="M1603,0 L1603,830" id="Line"></path>
+                <path d="M197,0 L197,830" id="Line"></path>
+                <path d="M100,447 L1700,447" id="Line"></path>
+                <path d="M-1.13686838e-13,94 L1800,94" id="Line"></path>
+                <path d="M-1.13686838e-13,800 L1800,800" id="Line"></path>
+            </g>
+            <g id="A_B" transform="translate(0.000000, 398.000000)">
+                <g id="B" transform="translate(1608.000000, 0.000000)">
+                    <circle id="Oval-1" stroke="#979797" stroke-width="3" cx="142" cy="50" r="50"></circle>
+                    <text font-family="Roboto-Regular, Roboto" font-size="42" font-weight="normal" fill="#979797">
+                        <tspan x="128.663745" y="65">B</tspan>
+                    </text>
+                    <text id="Do-know" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="91.7958984" y="202">Do know</tspan>
+                    </text>
+                    <text id="Should-be" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="77.3232422" y="314">Should be</tspan>
+                    </text>
+                    <path d="M48.5,251.5 L191.5,251.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+                <g id="A">
+                    <path d="M50,100 C77.6142375,100 100,77.6142375 100,50 C100,22.3857625 77.6142375,0 50,0 C22.3857625,0 0,22.3857625 0,50 C0,77.6142375 22.3857625,100 50,100 Z" id="Oval-1" stroke="#979797" stroke-width="3"></path>
+                    <text font-family="Roboto-Regular, Roboto" font-size="42" font-weight="normal" fill="#979797">
+                        <tspan x="36.0382568" y="65">A</tspan>
+                    </text>
+                    <text id="Don’t-know" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="0" y="202">Don’t know</tspan>
+                    </text>
+                    <text id="Could-be" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="0" y="314">Could be</tspan>
+                    </text>
+                    <path d="M2.5,248.5 L145.5,248.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Top_Labels" transform="translate(209.000000, 4.000000)" fill="#979797" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold">
+                <g id="Arch_Phases">
+                    <text id="DESIGNING-THINGS-RIG">
+                        <tspan x="885.47998" y="24">DESIGNING THINGS RIGHT</tspan>
+                    </text>
+                    <text id="DESIGNING-THE-RIGHT-">
+                        <tspan x="159.956055" y="24">DESIGNING THE RIGHT THING</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <polygon id="Path" stroke="#979797" stroke-width="4" fill="#FFFFFF" points="260 537 610 187 1310 887 1660 537 1310 187 610 887"></polygon>
+        <g id="Diamond_2" transform="translate(957.000000, 185.000000)">
+            <g id="framing"></g>
+        </g>
+        <g id="Diamond_1" transform="translate(257.000000, 185.000000)">
+            <g id="framing"></g>
+        </g>
+    </g>
+</svg>

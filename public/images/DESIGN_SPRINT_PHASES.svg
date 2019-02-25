@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>DESIGN_SPRINT_PHASES</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DESIGN_SPRINT_PHASES" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" stroke="#979797" stroke-width="4" fill="#FFFFFF" points="60 540 360 240 960 840 1260 540 1560 840 1860 540 1560 240 1260 540 960 240 360 840"></polygon>
+        <path d="M360,243 L360,838" id="Line" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+        <path d="M960,243 L960,838" id="Line" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+        <path d="M1560,243 L1560,838" id="Line" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+        <text id="Understand" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="176.508789" y="549">Understand</tspan>
+        </text>
+        <text id="Define" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="410" y="549">Define</tspan>
+        </text>
+        <text id="Sketch" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="831.454102" y="549">Sketch</tspan>
+        </text>
+        <text id="Decide" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="1010" y="549">Decide</tspan>
+        </text>
+        <text id="Prototype" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="1398.00195" y="549">Prototype</tspan>
+        </text>
+        <text id="Validate" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="1610" y="549">Validate</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>DD_03</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DD_03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1080"></rect>
+        <g id="main_structure_frame" transform="translate(34.000000, 90.000000)">
+            <g id="line_Grid" transform="translate(26.000000, 0.000000)" stroke="#979797" stroke-linecap="square" stroke-width="2">
+                <path d="M900,0 L900,830" id="Line"></path>
+                <path d="M550,70 L550,830" id="Line"></path>
+                <path d="M1250,70 L1250,830" id="Line"></path>
+                <path d="M1603,0 L1603,830" id="Line"></path>
+                <path d="M197,0 L197,830" id="Line"></path>
+                <path d="M100,447 L1700,447" id="Line"></path>
+                <path d="M-1.13686838e-13,94 L1800,94" id="Line"></path>
+                <path d="M-1.13686838e-13,800 L1800,800" id="Line"></path>
+            </g>
+            <g id="A_B" transform="translate(26.000000, 398.000000)">
+                <g id="B" transform="translate(1608.000000, 0.000000)">
+                    <circle id="Oval-1" stroke="#979797" stroke-width="3" cx="142" cy="50" r="50"></circle>
+                    <text font-family="Roboto-Regular, Roboto" font-size="42" font-weight="normal" fill="#979797">
+                        <tspan x="128.663745" y="65">B</tspan>
+                    </text>
+                    <text id="Do-know" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="91.7958984" y="202">Do know</tspan>
+                    </text>
+                    <text id="Should-be" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="77.3232422" y="314">Should be</tspan>
+                    </text>
+                    <path d="M48.5,251.5 L191.5,251.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+                <g id="A">
+                    <path d="M50,100 C77.6142375,100 100,77.6142375 100,50 C100,22.3857625 77.6142375,0 50,0 C22.3857625,0 0,22.3857625 0,50 C0,77.6142375 22.3857625,100 50,100 Z" id="Oval-1" stroke="#979797" stroke-width="3"></path>
+                    <text font-family="Roboto-Regular, Roboto" font-size="42" font-weight="normal" fill="#979797">
+                        <tspan x="36.0382568" y="65">A</tspan>
+                    </text>
+                    <text id="Don’t-know" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="0" y="202">Don’t know</tspan>
+                    </text>
+                    <text id="Could-be" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="0" y="314">Could be</tspan>
+                    </text>
+                    <path d="M2.5,248.5 L145.5,248.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Top_Labels" transform="translate(0.000000, 4.000000)" fill="#979797" font-size="26">
+                <g id="Label_Left" transform="translate(0.000000, 48.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                    <text id="Activitiy">
+                        <tspan x="85.6191406" y="24">Activitiy</tspan>
+                    </text>
+                    <text id="Phase">
+                        <tspan x="104.954102" y="87">Phase</tspan>
+                    </text>
+                </g>
+                <g id="Lower_Added_Naming" transform="translate(220.000000, 111.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                    <text id="Ideation">
+                        <tspan x="836.186035" y="24">Ideation</tspan>
+                    </text>
+                    <text id="Implementation">
+                        <tspan x="1143.97461" y="24">Implementation</tspan>
+                    </text>
+                    <text id="Research">
+                        <tspan x="123.203613" y="24">Research</tspan>
+                    </text>
+                    <text id="Synthesis">
+                        <tspan x="473.108887" y="24">Synthesis</tspan>
+                    </text>
+                </g>
+                <g id="Upper_Council_Naming" transform="translate(220.000000, 48.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                    <text id="Develop">
+                        <tspan x="836.706543" y="24">Develop</tspan>
+                    </text>
+                    <text id="Deliver">
+                        <tspan x="1195.77783" y="24">Deliver</tspan>
+                    </text>
+                    <text id="Discover">
+                        <tspan x="126.993164" y="24">Discover</tspan>
+                    </text>
+                    <text id="Discover">
+                        <tspan x="492.32959" y="24">Define</tspan>
+                    </text>
+                </g>
+                <g id="Arch_Phases" transform="translate(235.000000, 0.000000)" font-family="Roboto-Bold, Roboto" font-weight="bold">
+                    <text id="DESIGNING-THINGS-RIG">
+                        <tspan x="885.47998" y="24">DESIGNING THINGS RIGHT</tspan>
+                    </text>
+                    <text id="DESIGNING-THE-RIGHT-">
+                        <tspan x="159.956055" y="24">DESIGNING THE RIGHT THING</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <polygon id="Path" stroke="#979797" stroke-width="4" fill="#FFFFFF" points="260 537 610 187 1310 887 1660 537 1310 187 610 887"></polygon>
+        <g id="Diamond_2" transform="translate(957.000000, 185.000000)" stroke="#979797" stroke-linecap="square" stroke-width="4">
+            <g id="framing">
+                <g id="inner_grid" transform="translate(352.000000, 7.000000)">
+                    <path d="M1,0.5 L1,693.5" id="Line"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Diamond_1" transform="translate(257.000000, 185.000000)" stroke="#979797" stroke-linecap="square" stroke-width="4">
+            <g id="framing">
+                <g id="inner_grid" transform="translate(352.000000, 4.000000)">
+                    <path d="M1,0 L1,696" id="Line"></path>
+                </g>
+            </g>
+        </g>
+        <text id="Diverging" transform="translate(1104.853553, 354.105668) rotate(-45.000000) translate(-1104.853553, -354.105668) " font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="1050.87943" y="363.105668">Diverging</tspan>
+        </text>
+        <text id="Converging" transform="translate(1513.146447, 356.105668) rotate(-315.000000) translate(-1513.146447, -356.105668) " font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="1447.80367" y="365.105668">Converging</tspan>
+        </text>
+        <text id="Diverging" transform="translate(404.138871, 351.138871) rotate(-45.000000) translate(-404.138871, -351.138871) " font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="350.16475" y="360.138871">Diverging</tspan>
+        </text>
+        <text id="Converging" transform="translate(811.861129, 353.138871) rotate(-315.000000) translate(-811.861129, -353.138871) " font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+            <tspan x="746.518356" y="362.138871">Converging</tspan>
+        </text>
+    </g>
+</svg>

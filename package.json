@@ -1,0 +1,27 @@
+{
+  "name": "silicon-pauli-playbook",
+  "version": "0.0.1",
+  "description": "The Silicon Pauli Playbook for product design",
+  "main": "index.js",
+  "repository": "https://github.com/silicon-pauli/silicon-pauli-playbook",
+  "author": "Till Hinrichs <till@eightdaysaweek.cc>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "dependencies": {
+    "docz": "^0.13.7",
+    "docz-plugin-netlify": "^1.1.4",
+    "docz-theme-default": "^0.13.7",
+    "webpack": "4.28.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}

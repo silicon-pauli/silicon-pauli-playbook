@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>DD_04</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DD_04" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1080"></rect>
+        <g id="Bottom_Labels" transform="translate(160.000000, 942.000000)" fill="#979797" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal">
+            <text id="Question,">
+                <tspan x="41.765625" y="24">Question,</tspan>
+                <tspan x="36.2050781" y="54">Challenge, </tspan>
+                <tspan x="33.456543" y="84">Client brief</tspan>
+            </text>
+            <text id="Unstructured-researc">
+                <tspan x="373.16748" y="24">Unstructured </tspan>
+                <tspan x="397.929688" y="54">research </tspan>
+                <tspan x="401.973145" y="84">findings</tspan>
+            </text>
+            <text id="Final-brief,-">
+                <tspan x="740.243164" y="24">Final brief, </tspan>
+                <tspan x="712.960938" y="54">HMW-Question</tspan>
+            </text>
+            <text id="Ideas,">
+                <tspan x="1117.91943" y="24">Ideas,</tspan>
+                <tspan x="1081.25537" y="54">hypothetical</tspan>
+                <tspan x="1103.29443" y="84">answers</tspan>
+            </text>
+            <text id="Answer,-product,-sol">
+                <tspan x="1408.51855" y="24">Answer, product, </tspan>
+                <tspan x="1457.57324" y="54">solution</tspan>
+            </text>
+        </g>
+        <g id="main_structure_frame" transform="translate(34.000000, 90.000000)">
+            <g id="line_Grid" transform="translate(26.000000, 0.000000)" stroke="#979797" stroke-linecap="square" stroke-width="2">
+                <path d="M900,0 L900,830" id="Line"></path>
+                <path d="M550,70 L550,830" id="Line"></path>
+                <path d="M1250,70 L1250,830" id="Line"></path>
+                <path d="M1603,0 L1603,830" id="Line"></path>
+                <path d="M197,0 L197,830" id="Line"></path>
+                <path d="M100,447 L1700,447" id="Line"></path>
+                <path d="M-1.13686838e-13,94 L1800,94" id="Line"></path>
+                <path d="M-1.13686838e-13,800 L1800,800" id="Line"></path>
+            </g>
+            <g id="A_B" transform="translate(26.000000, 398.000000)">
+                <g id="B" transform="translate(1608.000000, 0.000000)">
+                    <circle id="Oval-1" stroke="#979797" stroke-width="3" cx="142" cy="50" r="50"></circle>
+                    <text font-family="Roboto-Regular, Roboto" font-size="42" font-weight="normal" fill="#979797">
+                        <tspan x="128.663745" y="65">B</tspan>
+                    </text>
+                    <text id="Do-know" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="91.7958984" y="202">Do know</tspan>
+                    </text>
+                    <text id="Should-be" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="77.3232422" y="314">Should be</tspan>
+                    </text>
+                    <path d="M48.5,251.5 L191.5,251.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+                <g id="A">
+                    <path d="M50,100 C77.6142375,100 100,77.6142375 100,50 C100,22.3857625 77.6142375,0 50,0 C22.3857625,0 0,22.3857625 0,50 C0,77.6142375 22.3857625,100 50,100 Z" id="Oval-1" stroke="#979797" stroke-width="3"></path>
+                    <text font-family="Roboto-Regular, Roboto" font-size="42" font-weight="normal" fill="#979797">
+                        <tspan x="36.0382568" y="65">A</tspan>
+                    </text>
+                    <text id="Don’t-know" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="0" y="202">Don’t know</tspan>
+                    </text>
+                    <text id="Could-be" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal" fill="#979797">
+                        <tspan x="0" y="314">Could be</tspan>
+                    </text>
+                    <path d="M2.5,248.5 L145.5,248.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Top_Labels" transform="translate(0.000000, 4.000000)" fill="#979797" font-size="26">
+                <g id="Label_Left" transform="translate(0.000000, 48.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                    <text id="Activitiy">
+                        <tspan x="85.6191406" y="24">Activitiy</tspan>
+                    </text>
+                    <text id="Phase">
+                        <tspan x="104.954102" y="87">Phase</tspan>
+                    </text>
+                </g>
+                <g id="Lower_Added_Naming" transform="translate(220.000000, 111.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                    <text id="Ideation">
+                        <tspan x="836.186035" y="24">Ideation</tspan>
+                    </text>
+                    <text id="Implementation">
+                        <tspan x="1143.97461" y="24">Implementation</tspan>
+                    </text>
+                    <text id="Research">
+                        <tspan x="123.203613" y="24">Research</tspan>
+                    </text>
+                    <text id="Synthesis">
+                        <tspan x="473.108887" y="24">Synthesis</tspan>
+                    </text>
+                </g>
+                <g id="Upper_Council_Naming" transform="translate(220.000000, 48.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                    <text id="Develop">
+                        <tspan x="836.706543" y="24">Develop</tspan>
+                    </text>
+                    <text id="Deliver">
+                        <tspan x="1195.77783" y="24">Deliver</tspan>
+                    </text>
+                    <text id="Discover">
+                        <tspan x="126.993164" y="24">Discover</tspan>
+                    </text>
+                    <text id="Discover">
+                        <tspan x="492.32959" y="24">Define</tspan>
+                    </text>
+                </g>
+                <g id="Arch_Phases" transform="translate(235.000000, 0.000000)" font-family="Roboto-Bold, Roboto" font-weight="bold">
+                    <text id="DESIGNING-THINGS-RIG">
+                        <tspan x="885.47998" y="24">DESIGNING THINGS RIGHT</tspan>
+                    </text>
+                    <text id="DESIGNING-THE-RIGHT-">
+                        <tspan x="159.956055" y="24">DESIGNING THE RIGHT THING</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <polygon id="Path" stroke="#979797" stroke-width="4" fill="#FFFFFF" points="260 537 610 187 1310 887 1660 537 1310 187 610 887"></polygon>
+        <g id="Diamond_2" transform="translate(957.000000, 185.000000)">
+            <g id="framing"></g>
+        </g>
+        <g id="Diamond_1" transform="translate(609.000000, 189.000000)" stroke="#979797" stroke-linecap="square" stroke-width="4">
+            <g id="framing">
+                <g id="inner_grid">
+                    <path d="M1,0 L1,696" id="Line"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Diamond_2" transform="translate(958.000000, 192.000000)">
+            <g id="framing" transform="translate(2.000000, 0.000000)" stroke="#979797" stroke-width="4">
+                <g id="inner_grid">
+                    <polygon id="Rectangle-1" stroke-linejoin="round" transform="translate(175.000000, 345.500000) rotate(-45.000000) translate(-175.000000, -345.500000) " points="51.6098667 221.40276 297.683027 221.40276 298.390133 469.59724 51.6098667 467.47592"></polygon>
+                    <path d="M529.5,177.5 L529.5,513.536011" id="Line" stroke-linecap="square"></path>
+                    <path d="M608.25,256.463731 L608.25,434.536269" id="Line" stroke-linecap="square"></path>
+                    <path d="M441.75,89.4904398 L441.75,601.50956" id="Line" stroke-linecap="square"></path>
+                    <path d="M350,0.5 L350,693.5" id="Line" stroke-linecap="square"></path>
+                    <path d="M174,174.497126 L174,517.538677" id="Line" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Wording" transform="translate(0.000000, 15.000000)" fill="#979797" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal">
+                <text id="Diverging" transform="translate(146.853553, 147.105668) rotate(-45.000000) translate(-146.853553, -147.105668) ">
+                    <tspan x="92.8794323" y="156.105668">Diverging</tspan>
+                </text>
+                <text id="Ideate">
+                    <tspan x="74.0810547" y="341">Ideate</tspan>
+                </text>
+                <text id="Evaluate">
+                    <tspan x="206" y="341">Evaluate</tspan>
+                </text>
+                <text id="Set-of-Ideas">
+                    <tspan x="260.016602" y="167">Set of </tspan>
+                    <tspan x="264.942383" y="197">Ideas</tspan>
+                </text>
+                <text id="Set-of-ideas">
+                    <tspan x="259.016602" y="517">Set of </tspan>
+                    <tspan x="264.704102" y="547">ideas</tspan>
+                </text>
+                <text id="Converging" transform="translate(555.146447, 149.105668) rotate(-315.000000) translate(-555.146447, -149.105668) ">
+                    <tspan x="489.803673" y="158.105668">Converging</tspan>
+                </text>
+                <text id="Prototype,-Test,-Ana" transform="translate(402.000000, 333.875000) rotate(-90.000000) translate(-402.000000, -333.875000) ">
+                    <tspan x="264.128906" y="342.875">Prototype, Test, Analyse</tspan>
+                </text>
+                <text id="Learn,-Iterate,-Repe" transform="translate(489.000000, 334.055489) rotate(-90.000000) translate(-489.000000, -334.055489) ">
+                    <tspan x="367.524902" y="343.055489">Learn, Iterate, Repeat</tspan>
+                </text>
+                <text id="Build,-Test,-Finalis" transform="translate(569.000000, 333.500000) rotate(-90.000000) translate(-569.000000, -333.500000) ">
+                    <tspan x="459.363281" y="342.5">Build, Test, Finalise </tspan>
+                </text>
+                <text id="Release.-Out-" transform="translate(650.000000, 331.500000) rotate(-90.000000) translate(-650.000000, -331.500000) " line-spacing="30">
+                    <tspan x="600.983398" y="325.5">Release. </tspan>
+                    <tspan x="629.649414" y="355.5">Out </tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Diamond_1" transform="translate(257.000000, 189.000000)">
+            <g id="framing" transform="translate(3.000000, 0.000000)" stroke="#979797" stroke-width="4">
+                <g id="inner_grid">
+                    <polygon id="Rectangle-1" stroke-linecap="round" stroke-linejoin="round" transform="translate(175.000000, 348.000000) rotate(-45.000000) translate(-175.000000, -348.000000) " points="51.2563133 224.256313 297.329473 224.256313 298.743687 471.743687 51.2563133 470.329473"></polygon>
+                    <path d="M522.5,173.5 L522.5,524.533264" id="Line" stroke-linecap="square"></path>
+                    <path d="M610.25,261.508671 L610.25,436.491329" id="Line" stroke-linecap="square"></path>
+                    <path d="M434.75,85.5028626 L434.75,611.497137" id="Line" stroke-linecap="square"></path>
+                    <path d="M350,0 L350,696" id="Line" stroke-linecap="square"></path>
+                    <path d="M174,177.494253 L174,520.002899" id="Line" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="wording" transform="translate(0.000000, 15.000000)" fill="#979797" font-family="Roboto-Regular, Roboto" font-size="26" font-weight="normal">
+                <text id="Brief-in:-">
+                    <tspan x="61.5166016" y="327">Brief in: </tspan>
+                    <tspan x="84.0126953" y="357">Rip it.</tspan>
+                </text>
+                <text id="Cluster-topics">
+                    <tspan x="207" y="330">Cluster </tspan>
+                    <tspan x="207" y="360">topics</tspan>
+                </text>
+                <text id="Diverging" transform="translate(147.138871, 147.138871) rotate(-45.000000) translate(-147.138871, -147.138871) ">
+                    <tspan x="93.1647496" y="156.138871">Diverging</tspan>
+                </text>
+                <text id="Converging" transform="translate(554.861129, 149.138871) rotate(-315.000000) translate(-554.861129, -149.138871) ">
+                    <tspan x="489.518356" y="158.138871">Converging</tspan>
+                </text>
+                <text id="Insights-" transform="translate(394.375000, 336.500000) rotate(-90.000000) translate(-394.375000, -336.500000) ">
+                    <tspan x="348.405273" y="345.5">Insights </tspan>
+                </text>
+                <text id="Themes-" transform="translate(482.125000, 336.500000) rotate(-90.000000) translate(-482.125000, -336.500000) ">
+                    <tspan x="435.336426" y="345.5">Themes </tspan>
+                </text>
+                <text id="Opportunity-areas-" transform="translate(568.375000, 336.500000) rotate(-90.000000) translate(-568.375000, -336.500000) ">
+                    <tspan x="500.582031" y="330.5">Opportunity </tspan>
+                    <tspan x="536.36377" y="360.5">areas </tspan>
+                </text>
+                <text id="HMW-" transform="translate(642.500000, 336.500000) rotate(-90.000000) translate(-642.500000, -336.500000) ">
+                    <tspan x="610.349121" y="345.5">HMW </tspan>
+                </text>
+                <text id="Primary-Research">
+                    <tspan x="249.231445" y="157">Primary </tspan>
+                    <tspan x="231.407227" y="187">Research</tspan>
+                </text>
+                <text id="Secondary-Research">
+                    <tspan x="216.883789" y="503">Secondary </tspan>
+                    <tspan x="231.407227" y="533">Research</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
