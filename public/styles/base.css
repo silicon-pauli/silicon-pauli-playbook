@@ -1,0 +1,7 @@
+dl a {
+  font-weight: inherit !important;
+}
+
+li::before {
+  margin-left: -20px;
+}

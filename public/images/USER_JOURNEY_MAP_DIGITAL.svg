@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>USER_JOURNEY_MAP_DIGITAL</title>
+    <desc>Created with Sketch.</desc>
+    <g id="USER_JOURNEY_MAP_DIGITAL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M240.5,0 L240.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M443,725 L680,372" id="Line-3" stroke="#979797" stroke-width="2.85" stroke-linecap="square"></path>
+        <path d="M914.5,665 L680,372" id="Line-3" stroke="#979797" stroke-width="2.85" stroke-linecap="square"></path>
+        <path d="M914.5,665 L1154.5,422" id="Line-3" stroke="#979797" stroke-width="2.85" stroke-linecap="square"></path>
+        <path d="M1388.5,615 L1154.5,422" id="Line-3" stroke="#979797" stroke-width="2.85" stroke-linecap="square"></path>
+        <path d="M1388.5,615 L1628,252" id="Line-3" stroke="#979797" stroke-width="2.85" stroke-linecap="square"></path>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="443" cy="725" r="36"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="917" cy="665" r="36"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="1391" cy="615" r="36"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="680" cy="372" r="36"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="1154" cy="422" r="36"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="1628" cy="252" r="36"></circle>
+        <circle id="Oval" fill="#EE91C1" cx="443" cy="725" r="25"></circle>
+        <circle id="Oval" fill="#EE91C1" cx="917" cy="665" r="25"></circle>
+        <circle id="Oval" fill="#EE91C1" cx="1391" cy="615" r="25"></circle>
+        <circle id="Oval" fill="#D5EBA9" cx="680" cy="372" r="25"></circle>
+        <circle id="Oval" fill="#D5EBA9" cx="1154" cy="422" r="25"></circle>
+        <circle id="Oval" fill="#D5EBA9" cx="1628" cy="252" r="25"></circle>
+        <g id="Line-2" transform="translate(0.000000, 540.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <text id="STEP-1-(TOUCHPOINT)" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="402.466797" y="806">STEP 1</tspan>
+            <tspan x="354.179688" y="838">(TOUCHPOINT)</tspan>
+        </text>
+        <text id="STEP-3-(TOUCHPOINT)" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="874.931641" y="746">STEP 3</tspan>
+            <tspan x="828.179688" y="778">(TOUCHPOINT)</tspan>
+        </text>
+        <text id="STEP-5-(TOUCHPOINT)" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1349.07812" y="696">STEP 5</tspan>
+            <tspan x="1302.17969" y="728">(TOUCHPOINT)</tspan>
+        </text>
+        <text id="STEP-2-(TOUCHPOINT)" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="640.785156" y="277">STEP 2</tspan>
+            <tspan x="594.179688" y="309">(TOUCHPOINT)</tspan>
+        </text>
+        <text id="STEP-4-(TOUCHPOINT)" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1114.45703" y="327">STEP 4</tspan>
+            <tspan x="1068.17969" y="359">(TOUCHPOINT)</tspan>
+        </text>
+        <text id="STEP-6-(TOUCHPOINT)" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1588.70898" y="157">STEP 6</tspan>
+            <tspan x="1542.17969" y="189">(TOUCHPOINT)</tspan>
+        </text>
+        <text id="POSITIVE-EXPERIENCE" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="64.5566406" y="263">POSITIVE</tspan>
+            <tspan x="44.1601562" y="295">EXPERIENCE</tspan>
+        </text>
+        <text id="NEGATIVE-EXPERIENCE" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="58.6230469" y="802">NEGATIVE</tspan>
+            <tspan x="44.6601562" y="834">EXPERIENCE</tspan>
+        </text>
+        <g id="Line-2" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <path d="M1919.5,0 L1919.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M0.5,0 L0.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <g id="Line-2" transform="translate(0.000000, 1079.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+    </g>
+</svg>

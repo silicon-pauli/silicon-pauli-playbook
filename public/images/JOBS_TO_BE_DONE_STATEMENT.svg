@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>JOBS_TO_BE_DONE_STATEMENT</title>
+    <desc>Created with Sketch.</desc>
+    <g id="JOBS_TO_BE_DONE_STATEMENT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="WHEN" font-family="RobotoSlab-Bold, Roboto Slab" font-size="36" font-weight="bold" fill="#2D3747">
+            <tspan x="153.196289" y="421">WHEN</tspan>
+        </text>
+        <path d="M286,431 L586,431" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="round" stroke-dasharray="10"></path>
+        <g id="Group-2" transform="translate(686.000000, 383.000000)">
+            <path d="M206,48 L506,48" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="round" stroke-dasharray="10"></path>
+            <text id="I-WANT-TO" font-family="RobotoSlab-Bold, Roboto Slab" font-size="36" font-weight="bold" fill="#2D3747">
+                <tspan x="0.8125" y="38">I WANT TO</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(1292.000000, 383.000000)">
+            <path d="M175,48 L475,48" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="round" stroke-dasharray="10"></path>
+            <text id="SO-I-CAN" font-family="RobotoSlab-Bold, Roboto Slab" font-size="36" font-weight="bold" fill="#2D3747">
+                <tspan x="0.770507812" y="38">SO I CAN</tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(154.000000, 581.000000)">
+            <g id="Group" stroke="#FEAC90" stroke-width="3">
+                <path d="M-5.96855898e-13,8.52651283e-14 L-5.96855898e-13,8.59380651e-14 C-2.66849835e-13,11.045695 8.954305,20 20,20 L196,20 C207.045695,20 216,28.954305 216,40 L216,40 L216,40 C216,28.954305 224.954305,20 236,20 L412,20 C423.045695,20 432,11.045695 432,8.52651283e-14 L432,8.52651283e-14" id="Path-4"></path>
+            </g>
+            <text id="SITUATION" font-family="RobotoSlab-Bold, Roboto Slab" font-size="36" font-weight="bold" line-spacing="46" fill="#FEAC90">
+                <tspan x="98.71875" y="107.277344">SITUATION</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(689.000000, 581.000000)">
+            <g id="Group" stroke="#FEAC90" stroke-width="3">
+                <path d="M-5.96855898e-13,8.52651283e-14 L-5.96855898e-13,8.59380651e-14 C-2.66849835e-13,11.045695 8.954305,20 20,20 L231,20 C242.045695,20 251,28.954305 251,40 L251,40 L251,40 C251,28.954305 259.954305,20 271,20 L483,20 C494.045695,20 503,11.045695 503,8.52651283e-14 L503,8.52651283e-14" id="Path-4"></path>
+            </g>
+            <text id="MOTIVATION-(PUSH-OR" font-family="RobotoSlab-Bold, Roboto Slab" font-size="36" font-weight="bold" line-spacing="46" fill="#FEAC90">
+                <tspan x="125.888672" y="108">MOTIVATION</tspan>
+                <tspan x="102" y="154">(PUSH OR PULL)</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(1293.000000, 581.000000)">
+            <g id="Group" stroke="#FEAC90" stroke-width="3">
+                <path d="M-5.96855898e-13,8.52651283e-14 L-5.96855898e-13,8.59380651e-14 C-2.66849835e-13,11.045695 8.954305,20 20,20 L217,20 C228.045695,20 237,28.954305 237,40 L237,40 L237,40 C237,28.954305 245.954305,20 257,20 L454,20 C465.045695,20 474,11.045695 474,6.98108238e-13 L474,8.52651283e-14" id="Path-4"></path>
+            </g>
+            <text id="EXPECTED-OUTCOME" font-family="RobotoSlab-Bold, Roboto Slab" font-size="36" font-weight="bold" line-spacing="46" fill="#FEAC90">
+                <tspan x="29.9121094" y="107.277344">EXPECTED OUTCOME</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

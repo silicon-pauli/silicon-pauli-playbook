@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ASSUMPTION_RISK_PRIORITY</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ASSUMPTION_RISK_PRIORITY" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assumption-risk-priority" transform="translate(-1.000000, 0.000000)">
+            <path id="Line" d="M1813.97987,62.5775201 L95.6014231,1029.33907 L94.3594816,1030.03779 L92.9620464,1027.55391 L94.2039879,1026.85519 L1812.58243,60.0936371 L1808.80691,53.3827953 L1828.96883,52.5096718 L1817.75539,69.2883619 L1813.97987,62.5775201 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path d="M955,0 L967.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+            <path d="M1,540.5 L1921,540.5" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+            <text id="Validated" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+                <tspan x="51.2958984" y="495">VALIDATED</tspan>
+            </text>
+            <text id="Unknown" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+                <tspan x="1741.31104" y="495">UNKNOWN</tspan>
+            </text>
+            <text id="High-Risk" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+                <tspan x="1005.41846" y="64">HIGH RISK</tspan>
+            </text>
+            <text id="Priority" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+                <tspan x="1391.44336" y="194">Priority</tspan>
+            </text>
+            <text id="Low-Risk" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+                <tspan x="1018.45557" y="1034">LOW RISK</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

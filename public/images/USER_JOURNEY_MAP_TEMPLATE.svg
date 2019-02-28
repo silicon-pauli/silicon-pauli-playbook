@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>USER_JOURNEY_MAP_TEMPLATE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="USER_JOURNEY_MAP_TEMPLATE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M240.5,0 L240.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M1201.5,0 L1201.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M720.5,0 L720.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M1681.5,0 L1681.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M480.5,0 L480.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M1441.5,0 L1441.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M960.5,0 L960.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <g id="Line-2" transform="translate(0.000000, 180.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <g id="Line-2" transform="translate(0.000000, 540.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <g id="Line-2" transform="translate(0.000000, 900.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <g id="Line-2" transform="translate(0.000000, 360.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <g id="Line-2" transform="translate(0.000000, 720.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <text id="STEP-1" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="322.466797" y="111">STEP 1</tspan>
+        </text>
+        <text id="ACTIONS" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="66.6542969" y="284">ACTIONS</tspan>
+        </text>
+        <text id="QUESTIONS" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="50.7226562" y="465">QUESTIONS</tspan>
+        </text>
+        <text id="HAPPY-MOMENTS" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="77.9511719" y="624">HAPPY</tspan>
+            <tspan x="57.0859375" y="656">MOMENTS</tspan>
+        </text>
+        <text id="PAIN-POINTS" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="90.5683594" y="804">PAIN</tspan>
+            <tspan x="76.0605469" y="836">POINTS</tspan>
+        </text>
+        <text id="OPPOTUNITIES" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="31.3867188" y="1003">OPPOTUNITIES</tspan>
+        </text>
+        <text id="STEP-2" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="560.785156" y="111">STEP 2</tspan>
+        </text>
+        <text id="STEP-3" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="800.931641" y="111">STEP 3</tspan>
+        </text>
+        <text id="STEP-4" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1041.45703" y="111">STEP 4</tspan>
+        </text>
+        <text id="STEP-5" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1283.07812" y="111">STEP 5</tspan>
+        </text>
+        <text id="STEP-6" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1522.70898" y="111">STEP 6</tspan>
+        </text>
+        <text id="STEP-7" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1762.80273" y="111">STEP 7</tspan>
+        </text>
+        <g id="Line-2" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+        <path d="M1919.5,0 L1919.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M0.5,0 L0.5,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <g id="Line-2" transform="translate(0.000000, 1079.000000)" opacity="0.5" stroke="#979797" stroke-linecap="square">
+            <path d="M0.998959417,0.5 L1919.00104,0.5" id="Line"></path>
+        </g>
+    </g>
+</svg>

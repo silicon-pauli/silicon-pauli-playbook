@@ -45,8 +45,9 @@ export default {
       fontWeight: 400,
     },
     h6: {
-      fontSize: 16,
-      fontWeight: 400,
+      fontSize: 18,
+      fontWeight: 600,
+      textTransform: 'none',
     },
     img: {
       maxWidth: '100%',
@@ -54,6 +55,12 @@ export default {
     paragraph: {
       margin: '10px 0 30px',
       color: '#4a4a4a',
+    },
+    ul: {
+      margin: '10px 0 30px 20px',
+    },
+    ol: {
+      margin: '10px 0 30px 20px',
     },
     colors: {
       white: '#FFFFFF',

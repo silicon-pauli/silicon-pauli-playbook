@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>JOBS_TO_BE_DONE_FORCEFIELD</title>
+    <desc>Created with Sketch.</desc>
+    <g id="JOBS_TO_BE_DONE_FORCEFIELD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M960,200 L960,880" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M1600,200 L1600,880" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M320,200 L320,880" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M320,200 L1600,201" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M320,880 L1600,881" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M320,540 L1600,540" id="Path-3" stroke="#979797" stroke-width="3" stroke-linecap="square"></path>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="960" cy="540" r="60"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="1600" cy="540" r="60"></circle>
+        <circle id="Oval" stroke="#979797" stroke-width="3" fill="#FFFFFF" stroke-linecap="square" cx="320" cy="540" r="60"></circle>
+        <text id="PROGRESS-MAKING-FORC" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="787.089844" y="144">PROGRESS-MAKING FORCES</tspan>
+        </text>
+        <text id="PROGRESS-HINDERING-F" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="769.379883" y="955">PROGRESS-HINDERING FORCES</tspan>
+        </text>
+        <text id="EXISTING-BEHAVIOUR" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="95.5644531" y="534">EXISTING</tspan>
+            <tspan x="67.4316406" y="564">BEHAVIOUR</tspan>
+        </text>
+        <text id="NEW-BEHAVIOUR" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="1710" y="534">NEW</tspan>
+            <tspan x="1710" y="564">BEHAVIOUR</tspan>
+        </text>
+        <g id="ic-settings-24px" transform="translate(293.000000, 513.000000)">
+            <polygon id="Path" points="0 0 54 0 54 54 0 54"></polygon>
+            <path d="M43.7175,29.205 C43.8075,28.485 43.875,27.765 43.875,27 C43.875,26.235 43.8075,25.515 43.7175,24.795 L48.465,21.0825 C48.8925,20.745 49.005,20.1375 48.735,19.6425 L44.235,11.8575 C43.965,11.3625 43.3575,11.1825 42.8625,11.3625 L37.26,13.6125 C36.09,12.7125 34.83,11.97 33.4575,11.4075 L32.6025,5.445 C32.535,4.905 32.0625,4.5 31.5,4.5 L22.5,4.5 C21.9375,4.5 21.465,4.905 21.3975,5.445 L20.5425,11.4075 C19.17,11.97 17.91,12.735 16.74,13.6125 L11.1375,11.3625 C10.62,11.16 10.035,11.3625 9.765,11.8575 L5.265,19.6425 C4.9725,20.1375 5.1075,20.745 5.535,21.0825 L10.2825,24.795 C10.1925,25.515 10.125,26.2575 10.125,27 C10.125,27.7425 10.1925,28.485 10.2825,29.205 L5.535,32.9175 C5.1075,33.255 4.995,33.8625 5.265,34.3575 L9.765,42.1425 C10.035,42.6375 10.6425,42.8175 11.1375,42.6375 L16.74,40.3875 C17.91,41.2875 19.17,42.03 20.5425,42.5925 L21.3975,48.555 C21.465,49.095 21.9375,49.5 22.5,49.5 L31.5,49.5 C32.0625,49.5 32.535,49.095 32.6025,48.555 L33.4575,42.5925 C34.83,42.03 36.09,41.265 37.26,40.3875 L42.8625,42.6375 C43.38,42.84 43.965,42.6375 44.235,42.1425 L48.735,34.3575 C49.005,33.8625 48.8925,33.255 48.465,32.9175 L43.7175,29.205 Z M27,34.875 C22.6575,34.875 19.125,31.3425 19.125,27 C19.125,22.6575 22.6575,19.125 27,19.125 C31.3425,19.125 34.875,22.6575 34.875,27 C34.875,31.3425 31.3425,34.875 27,34.875 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+        <g id="ic-mood-18px" transform="translate(1573.000000, 513.000000)">
+            <polygon id="Path" points="0 0 54 0 54 54 0 54"></polygon>
+            <path d="M18,24 C19.65,24 21,22.65 21,21 C21,19.35 19.65,18 18,18 C16.35,18 15,19.35 15,21 C15,22.65 16.35,24 18,24 Z M36,24 C37.65,24 39,22.65 39,21 C39,19.35 37.65,18 36,18 C34.35,18 33,19.35 33,21 C33,22.65 34.35,24 36,24 Z M27,40.5 C33.42,40.5 38.76,36 40.14,30 L13.86,30 C15.24,36 20.58,40.5 27,40.5 Z M27,3 C13.71,3 3,13.74 3,27 C3,40.26 13.71,51 27,51 C40.29,51 51,40.26 51,27 C51,13.74 40.26,3 27,3 Z M27,46.5 C16.23,46.5 7.5,37.77 7.5,27 C7.5,16.23 16.23,7.5 27,7.5 C37.77,7.5 46.5,16.23 46.5,27 C46.5,37.77 37.77,46.5 27,46.5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+        <g id="ic-person-24px" transform="translate(933.000000, 513.000000)">
+            <path d="M27,27 C31.9725,27 36,22.9725 36,18 C36,13.0275 31.9725,9 27,9 C22.0275,9 18,13.0275 18,18 C18,22.9725 22.0275,27 27,27 Z M27,31.5 C20.9925,31.5 9,34.515 9,40.5 L9,45 L45,45 L45,40.5 C45,34.515 33.0075,31.5 27,31.5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <polygon id="Path" points="0 0 54 0 54 54 0 54"></polygon>
+        </g>
+        <text id="Allegience-to-curren" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="527.895508" y="638">Allegience to</tspan>
+            <tspan x="486.077148" y="686">current behaviour</tspan>
+        </text>
+        <text id="Push-of-the-situatio" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="543.504883" y="422">Push of the</tspan>
+            <tspan x="563.280273" y="470">situation</tspan>
+        </text>
+        <text id="Anxiety-of-new-solut" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="1191.38867" y="638">Anxiety of</tspan>
+            <tspan x="1169.31934" y="686">new solution</tspan>
+        </text>
+        <text id="Pull-of-the-new-idea" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="1192.96191" y="422">Pull of the</tspan>
+            <tspan x="1203.07812" y="470">new idea</tspan>
+        </text>
+        <g id="Group" transform="translate(515.000000, 251.000000)" fill="#D8D8D8">
+            <polygon id="Rectangle" points="-1.06226139e-12 4.26325641e-14 10 4.26325641e-14 50 40 10 80 -1.06226139e-12 80 40 40"></polygon>
+            <polygon id="Rectangle" opacity="0.8" points="50 4.26325641e-14 60 4.26325641e-14 100 40 60 80 50 80 90 40"></polygon>
+            <polygon id="Rectangle" opacity="0.6" points="100 4.26325641e-14 110 4.26325641e-14 150 40 110 80 100 80 140 40"></polygon>
+            <polygon id="Rectangle" opacity="0.4" points="150 4.26325641e-14 160 4.26325641e-14 200 40 160 80 150 80 190 40"></polygon>
+            <polygon id="Rectangle" opacity="0.2" points="200 4.26325641e-14 210 4.26325641e-14 250 40 210 80 200 80 240 40"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(1155.000000, 251.000000)" fill="#D8D8D8">
+            <polygon id="Rectangle" points="200 4.26325641e-14 210 4.26325641e-14 250 40 210 80 200 80 240 40"></polygon>
+            <polygon id="Rectangle" opacity="0.8" points="150 4.26325641e-14 160 4.26325641e-14 200 40 160 80 150 80 190 40"></polygon>
+            <polygon id="Rectangle" opacity="0.6" points="100 4.26325641e-14 110 4.26325641e-14 150 40 110 80 100 80 140 40"></polygon>
+            <polygon id="Rectangle" opacity="0.4" points="50 4.26325641e-14 60 4.26325641e-14 100 40 60 80 50 80 90 40"></polygon>
+            <polygon id="Rectangle" opacity="0.2" points="-1.06226139e-12 4.26325641e-14 10 4.26325641e-14 50 40 10 80 -1.06226139e-12 80 40 40"></polygon>
+        </g>
+        <g id="Group-3" transform="translate(1155.000000, 750.000000)" fill="#D8D8D8">
+            <polygon id="Rectangle" transform="translate(225.000000, 40.000000) scale(-1, 1) translate(-225.000000, -40.000000) " points="200 4.26325641e-14 210 4.26325641e-14 250 40 210 80 200 80 240 40"></polygon>
+            <polygon id="Rectangle" opacity="0.8" transform="translate(175.000000, 40.000000) scale(-1, 1) translate(-175.000000, -40.000000) " points="150 4.26325641e-14 160 4.26325641e-14 200 40 160 80 150 80 190 40"></polygon>
+            <polygon id="Rectangle" opacity="0.6" transform="translate(125.000000, 40.000000) scale(-1, 1) translate(-125.000000, -40.000000) " points="100 4.26325641e-14 110 4.26325641e-14 150 40 110 80 100 80 140 40"></polygon>
+            <polygon id="Rectangle" opacity="0.4" transform="translate(75.000000, 40.000000) scale(-1, 1) translate(-75.000000, -40.000000) " points="50 4.26325641e-14 60 4.26325641e-14 100 40 60 80 50 80 90 40"></polygon>
+            <polygon id="Rectangle" opacity="0.2" transform="translate(25.000000, 40.000000) scale(-1, 1) translate(-25.000000, -40.000000) " points="-1.06226139e-12 4.26325641e-14 10 4.26325641e-14 50 40 10 80 -1.06226139e-12 80 40 40"></polygon>
+        </g>
+        <g id="Group-4" transform="translate(515.000000, 750.000000)" fill="#D8D8D8">
+            <polygon id="Rectangle" transform="translate(25.000000, 40.000000) scale(-1, 1) translate(-25.000000, -40.000000) " points="-1.06226139e-12 4.26325641e-14 10 4.26325641e-14 50 40 10 80 -1.06226139e-12 80 40 40"></polygon>
+            <polygon id="Rectangle" opacity="0.8" transform="translate(75.000000, 40.000000) scale(-1, 1) translate(-75.000000, -40.000000) " points="50 4.26325641e-14 60 4.26325641e-14 100 40 60 80 50 80 90 40"></polygon>
+            <polygon id="Rectangle" opacity="0.6" transform="translate(125.000000, 40.000000) scale(-1, 1) translate(-125.000000, -40.000000) " points="100 4.26325641e-14 110 4.26325641e-14 150 40 110 80 100 80 140 40"></polygon>
+            <polygon id="Rectangle" opacity="0.4" transform="translate(175.000000, 40.000000) scale(-1, 1) translate(-175.000000, -40.000000) " points="150 4.26325641e-14 160 4.26325641e-14 200 40 160 80 150 80 190 40"></polygon>
+            <polygon id="Rectangle" opacity="0.2" transform="translate(225.000000, 40.000000) scale(-1, 1) translate(-225.000000, -40.000000) " points="200 4.26325641e-14 210 4.26325641e-14 250 40 210 80 200 80 240 40"></polygon>
+        </g>
+    </g>
+</svg>

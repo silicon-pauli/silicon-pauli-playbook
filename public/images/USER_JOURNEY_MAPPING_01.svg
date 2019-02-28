@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="280px" viewBox="0 0 1920 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>USER_JOURNEY_MAPPING_01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="USER_JOURNEY_MAPPING_01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="Path-3" d="M374.5,142 L313,142 L311.5,142 L311.5,139 L313,139 L374.5,139 L374.5,131 L393.5,140.5 L374.5,150 L374.5,142 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M802.5,142 L741,142 L739.5,142 L739.5,139 L741,139 L802.5,139 L802.5,131 L821.5,140.5 L802.5,150 L802.5,142 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1195.5,142 L1134,142 L1132.5,142 L1132.5,139 L1134,139 L1195.5,139 L1195.5,131 L1214.5,140.5 L1195.5,150 L1195.5,142 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1576.5,142 L1515,142 L1513.5,142 L1513.5,139 L1515,139 L1576.5,139 L1576.5,131 L1595.5,140.5 L1576.5,150 L1576.5,142 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="The-user-logs-into-t" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="99.5742188" y="117">The user logs</tspan>
+            <tspan x="88.0664062" y="149">into the app for</tspan>
+            <tspan x="102.082031" y="181">the first time</tspan>
+        </text>
+        <text id="The-user-tries-to-fi" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="474.515625" y="117">The user tries to</tspan>
+            <tspan x="443.373047" y="149">find the local weather</tspan>
+            <tspan x="496.365234" y="181">for the week</tspan>
+        </text>
+        <text id="The-user-wants-to-kn" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="876.121094" y="117">The user wants to</tspan>
+            <tspan x="871.375" y="149">know how to enter</tspan>
+            <tspan x="900.636719" y="181">their location</tspan>
+        </text>
+        <text id="The-user-watches-the" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1264.28711" y="117">The user watches</tspan>
+            <tspan x="1277.55859" y="149">the onboarding</tspan>
+            <tspan x="1322.39453" y="181">tutorial</tspan>
+        </text>
+        <text id="The-user-sets-up-a-c" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1645.37695" y="117">The user sets up</tspan>
+            <tspan x="1662.62109" y="149">a customized</tspan>
+            <tspan x="1654.21289" y="181">weather report</tspan>
+        </text>
+    </g>
+</svg>

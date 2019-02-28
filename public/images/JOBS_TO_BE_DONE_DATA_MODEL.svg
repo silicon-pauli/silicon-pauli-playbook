@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>JOBS_TO_BE_DONE_DATA_MODEL</title>
+    <desc>Created with Sketch.</desc>
+    <g id="JOBS_TO_BE_DONE_DATA_MODEL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M480,0 L480,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M960,0 L960,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <path d="M1440,0 L1440,1080" id="Line" stroke="#979797" opacity="0.5" stroke-linecap="square"></path>
+        <text id="Unmet-Desires" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="120.173828" y="334">Unmet Desires</tspan>
+        </text>
+        <text id="Catalysts" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="215.289062" y="670">Catalysts</tspan>
+        </text>
+        <text id="Constraints" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="173.628906" y="502">Constraints</tspan>
+        </text>
+        <text id="Choice-Set" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="192.349609" y="838">Choice Set</tspan>
+        </text>
+        <path id="Path-3" d="M564.76573,449.397311 L409.046439,321.157895 L407.888544,320.204334 L409.795666,317.888544 L410.953561,318.842105 L566.672852,447.08152 L571.75851,440.906079 L580.385965,460.317854 L559.680072,455.572753 L564.76573,449.397311 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M567.120432,689.364757 L410.992432,827.124757 L409.867676,828.117189 L407.882811,825.867676 L409.007568,824.875243 L565.135567,687.115244 L559.842594,681.116541 L580.374919,675.669189 L572.413405,695.36346 L567.120432,689.364757 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M531.754258,622.202426 L410.440093,659.433987 L409.006107,659.87408 L408.12592,657.006107 L409.559907,656.566013 L530.874071,619.334452 L528.526906,611.686523 L549.477996,615.193923 L534.101422,629.850355 L531.754258,622.202426 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M530.869894,526.525171 L409.56141,489.434447 L408.126963,488.995857 L409.004143,486.126963 L410.43859,486.565553 L531.747074,523.656276 L534.086221,516.005891 L549.478149,530.646197 L528.530748,534.175556 L530.869894,526.525171 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M996.5,571.5 L905,571.5 L903.5,571.5 L903.5,568.5 L905,568.5 L996.5,568.5 L996.5,560.5 L1015.5,570 L996.5,579.5 L996.5,571.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1476.5,571.5 L1385,571.5 L1383.5,571.5 L1383.5,568.5 L1385,568.5 L1476.5,568.5 L1476.5,560.5 L1495.5,570 L1476.5,579.5 L1476.5,571.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1151,413.5 L1151,505.870058 L1151,507.370058 L1148,507.370058 L1148,505.870058 L1148,413.5 L1140,413.5 L1149.5,394.5 L1159,413.5 L1151,413.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1251,652.5 L1251,744.870058 L1251,746.370058 L1248,746.370058 L1248,744.870058 L1248,652.5 L1240,652.5 L1249.5,633.5 L1259,652.5 L1251,652.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1248,487.370058 L1248,395 L1248,393.5 L1251,393.5 L1251,395 L1251,487.370058 L1259,487.370058 L1249.5,506.370058 L1240,487.370058 L1248,487.370058 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M1148,726.370058 L1148,634 L1148,632.5 L1151,632.5 L1151,634 L1151,726.370058 L1159,726.370058 L1149.5,745.370058 L1140,726.370058 L1148,726.370058 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="JTBD-Synthesis" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="615.37793" y="130">JTBD SYNTHESIS</tspan>
+        </text>
+        <text id="INTERVIEWS" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="164.723145" y="130">INTERVIEWS</tspan>
+        </text>
+        <text id="CHOICE-SET-ASSESSMEN" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="1040.39453" y="130">CHOICE SET ASSESSMENT</tspan>
+        </text>
+        <text id="NEW-MARKET-BEHAVIOUR" font-family="Roboto-Bold, Roboto" font-size="26" font-weight="bold" fill="#979797">
+            <tspan x="1522.48291" y="130">NEW MARKET BEHAVIOUR</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFFFFF" x="704" y="551" width="102" height="40" rx="10"></rect>
+        <g id="Group-2" transform="translate(601.000000, 444.500000)">
+            <text id="JTBD" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+                <tspan x="79.5488281" y="139.5">JTBD</tspan>
+            </text>
+            <path d="M96.7766953,154.5 L37,214.276695 L96.7766953,154.5 Z M213.776695,37.5 L154.776695,96.5 L213.776695,37.5 Z M154,154.723305 L213.776695,214.5 L154,154.723305 Z M37,37.7233047 L96,96.7233047 L37,37.7233047 Z M188.891919,126.1579 L250.5,126.1579 L188.891919,126.1579 Z M0.5,126.1579 L61.009668,126.1579 L0.5,126.1579 Z M125.5,89.7659813 L125.5,31.1579003 L125.5,89.7659813 Z M125.5,15.0371094 L125.5,1.15790027 L125.5,15.0371094 Z M125.5,251.394974 L125.5,237.515765 L125.5,251.394974 Z M125.5,221.1579 L125.5,163.648232 L125.5,221.1579 Z M174.222358,104.406651 L203.097777,91.550486 L174.222358,104.406651 Z M217.824853,84.9935697 L230.504141,79.3483868 L217.824853,84.9935697 Z M20.1721083,172.994241 L32.8513968,167.349058 L20.1721083,172.994241 Z M47.7950495,160.695715 L75.6670181,148.286315 L47.7950495,160.695715 Z M174.222358,147.791834 L203.097777,160.647999 L174.222358,147.791834 Z M217.824853,167.204915 L230.504141,172.850098 L217.824853,167.204915 Z M20.1721083,79.2042437 L32.8513968,84.8494266 L20.1721083,79.2042437 Z M47.7950495,91.5027694 L75.6670181,103.912169 L47.7950495,91.5027694 Z M147.192592,77.376884 L160.048756,48.5014651 L147.192592,77.376884 Z M90.903527,203.804193 L103.312927,175.932224 L90.903527,203.804193 Z M104.661035,77.0057167 L92.3107735,47.9103247 L104.661035,77.0057167 Z M158.735065,204.39615 L146.813988,176.311852 L158.735065,204.39615 Z" id="Combined-Shape" stroke="#FEAC90" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <text id="SHOPPING" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="1107.42578" y="584">SHOPPING</tspan>
+        </text>
+        <text id="HIRING" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="1616.45508" y="568">HIRING</tspan>
+        </text>
+        <text id="THE-NEW-WAY" font-family="RobotoSlab-Regular, Roboto Slab" font-size="24" font-weight="normal" fill="#2D3747">
+            <tspan x="1593.38086" y="603">THE NEW WAY</tspan>
+        </text>
+        <text id="TRADE-OFF-EVALUATION" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="1096.81738" y="823">TRADE-OFF</tspan>
+            <tspan x="1081.1377" y="871">EVALUATION</tspan>
+        </text>
+        <text id="RE-INVENTION" font-family="RobotoSlab-Regular, Roboto Slab" font-size="36" font-weight="normal" fill="#2D3747">
+            <tspan x="1068.18164" y="345">RE-INVENTION</tspan>
+        </text>
+    </g>
+</svg>
